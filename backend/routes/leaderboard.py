@@ -1,0 +1,1 @@
+from controllers.leaderboard_controller import router as leaderboard_router
