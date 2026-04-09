@@ -9,6 +9,7 @@ lerna-debug.log*
 # Build outputs
 dist/
 build/
+__pycache__/
 
 # Environment variables
 .env
